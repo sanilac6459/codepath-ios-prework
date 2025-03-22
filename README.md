@@ -36,8 +36,6 @@ The following **required** functionality is completed:
     - Having a TikTok shop where you can buy products that was seen in our FYP
     - Saving music from videos we watch for later use
 
-## Notes
-The challenge I faced when making this app is navigating through Xcode because it was my first time using it.
 
 ## License
 
