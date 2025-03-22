@@ -1,9 +1,9 @@
 # codepath-ios-prework
-# Prework - *SpectrumShift*
+# Prework - *ColorSync*
 
 Submitted by: **Sanila Chowdhury**
 
-**SpectrumShift** is an app that generates different background screen color by a click of a button
+**ColorSync** is an app that generates different background screen color by a click of a button
 
 Time spent: **1** hour spent in total
 
