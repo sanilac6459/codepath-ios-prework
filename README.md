@@ -1,5 +1,5 @@
-# codepath-ios-prework
-# Prework - *ColorSync*
+# CodePath iOS Prework
+## Prework - *ColorSync*
 
 Submitted by: **Sanila Chowdhury**
 
@@ -11,9 +11,9 @@ Time spent: **1** hour spent in total
 
 The following **required** functionality is completed:
 
-- [ ] There are three labels on the screen with the programmer's name, university they attend, and their aspirational job
-- [ ] There's a button underneath labeled "Click me!"
-- [ ] As users click the button, the screen background color will be changed to a random color
+- [x] There are three labels on the screen with the programmer's name, university they attend, and their aspirational job
+- [x] There's a button underneath labeled "Click me!"
+- [x] As users click the button, the screen background color will be changed to a random color
  
 ## Video Walkthrough
 
