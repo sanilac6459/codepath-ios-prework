@@ -17,7 +17,7 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-[Here's the demo of my app!](https://www.loom.com/share/16a97b2c00ed47f5a73d5a6fb2b7dac8?sid=50e48ac3-eab9-4436-9fb4-18fd5bec26e8)
+[Here's the demo of my app!](https://i.imgur.com/82yb3ky.gif)
 
 ## App Brainstorming (Step 4)
 - **Discord:**
